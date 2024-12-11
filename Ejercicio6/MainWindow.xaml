@@ -1,0 +1,24 @@
+﻿<Window x:Class="WpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Ejemplo de WPF" Height="250" Width="400">
+
+    <StackPanel Margin="10">
+        <!-- TextBlock con estilos iniciales -->
+        <TextBlock Name="MainTextBlock" TextWrapping="Wrap" Margin="0,0,0,10">
+            <TextBlock.Inlines>
+                <Span FontWeight="Bold" Foreground="Blue">Este texto está en negrita.</Span>
+                <Run FontStyle="Italic" Foreground="Red">Y este está en cursiva.</Run>
+            </TextBlock.Inlines>
+        </TextBlock>
+
+        <!-- CheckBox para alternar el texto -->
+        <CheckBox Name="AlternateTextCheckBox" Content="Mostrar texto alternativo" Margin="0,0,0,10"/>
+
+        <!-- Botón para actualizar el contenido del TextBlock -->
+        <Button Name="UpdateTextButton" Content="Actualizar texto" Click="UpdateTextButton_Click"/>
+    </StackPanel>
+</Window>

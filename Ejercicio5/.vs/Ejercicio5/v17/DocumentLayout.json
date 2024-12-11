@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\saveper1907\\Desktop\\2DAM\\DI\\C#\\EjControlesBasicos\\Ejercicio 10_WPF_TextBox_button_CheckBox\\Ejercicio5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D40073D6-7AD2-40BB-95C0-260467A02267}|Ejercicio5.csproj|c:\\users\\saveper1907\\desktop\\2dam\\di\\c#\\ejcontrolesbasicos\\ejercicio 10_wpf_textbox_button_checkbox\\ejercicio5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D40073D6-7AD2-40BB-95C0-260467A02267}|Ejercicio5.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D40073D6-7AD2-40BB-95C0-260467A02267}|Ejercicio5.csproj|C:\\Users\\saveper1907\\Desktop\\2DAM\\DI\\C#\\EjControlesBasicos\\Ejercicio 10_WPF_TextBox_button_CheckBox\\Ejercicio5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D40073D6-7AD2-40BB-95C0-260467A02267}|Ejercicio5.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D40073D6-7AD2-40BB-95C0-260467A02267}|Ejercicio5.csproj|c:\\users\\saveper1907\\desktop\\2dam\\di\\c#\\ejcontrolesbasicos\\ejercicio 10_wpf_textbox_button_checkbox\\ejercicio5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D40073D6-7AD2-40BB-95C0-260467A02267}|Ejercicio5.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{D40073D6-7AD2-40BB-95C0-260467A02267}|Ejercicio5.csproj|c:\\users\\saveper1907\\desktop\\2dam\\di\\c#\\ejcontrolesbasicos\\ejercicio 10_wpf_textbox_button_checkbox\\ejercicio5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40073D6-7AD2-40BB-95C0-260467A02267}|Ejercicio5.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\saveper1907\\Desktop\\2DAM\\DI\\C#\\EjControlesBasicos\\Ejercicio 10_WPF_TextBox_button_CheckBox\\Ejercicio5\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -34,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\saveper1907\\Desktop\\2DAM\\DI\\C#\\EjControlesBasicos\\Ejercicio 10_WPF_TextBox_button_CheckBox\\Ejercicio5\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
